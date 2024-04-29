@@ -2,14 +2,43 @@
 
 The main objectives of this project are twofold:
 
-* Proof of skill in using programming languages, libraries, etc.
+- Proof of skill in using programming languages, libraries, etc.
 
-* Proof of work history to date
+- Proof of work history to date
 
 There are two methods of proof expected:
 
-* Proof by the person who is entering the information
+- Proof by the person who is entering the information
 
-* Proof from a third party
+- Proof from a third party
 
 The more skills you have, the higher your individual points (which are not monetary in value), but even if you have the same skills, the more points you will get if proof is from a third party.
+
+---
+
+# Mina zkApp: Skoof
+
+This template uses TypeScript.
+
+## How to build
+
+```sh
+npm run build
+```
+
+## How to run tests
+
+```sh
+npm run test
+npm run testw # watch mode
+```
+
+## How to run coverage
+
+```sh
+npm run coverage
+```
+
+## License
+
+[Apache-2.0](LICENSE)
