@@ -1,4 +1,23 @@
 {
   "version": 1,
-  "deployAliases": {}
+  "deployAliases": {
+    "skoof": {
+      "networkId": "testnet",
+      "url": "https://api.minascan.io/node/devnet/v1/graphql",
+      "keyPath": "keys/skoof.json",
+      "feepayerKeyPath": "/Users/dai/.cache/zkapp-cli/keys/testnet-fees.json",
+      "feepayerAlias": "testnet-fees",
+      "fee": "0.1",
+      "smartContract": "Add"
+    },
+    "skoof1": {
+      "networkId": "testnet",
+      "url": "https://api.minascan.io/node/berkeley/v1/graphql",
+      "keyPath": "keys/skoof1.json",
+      "feepayerKeyPath": "/Users/dai/.cache/zkapp-cli/keys/skoof.json",
+      "feepayerAlias": "skoof",
+      "fee": "0.1",
+      "smartContract": "Add"
+    }
+  }
 }
