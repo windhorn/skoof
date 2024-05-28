@@ -16,6 +16,20 @@ The more skills you have, the higher your individual points (which are not monet
 
 ---
 
+Main functions
+* Proof of skills for those who want to prove their skills
+  * Proof of identity is mainly done via smartphone or PC.
+* Points are awarded according to skills.
+  * Identity can be verified by the user, but more points are awarded if verified by someone else.
+* Proof of the prover's work history.
+  * By taking advantage of the benefits of zero-knowledge proof, work history can be verified while company names are hidden.
+  * Proof of work history refers to the following:
+    * Number of work experiences
+    * Average length of employment
+    * Projects in charge
+    * Evaluation from members
+---
+
 # Mina zkApp: Skoof
 
 This template uses TypeScript.
